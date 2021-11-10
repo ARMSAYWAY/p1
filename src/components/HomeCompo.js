@@ -206,7 +206,7 @@ function HomeCompo() {
                                             history.push('/templeDetail?temple_id=' + data.temple_id)
                                         }
                                     }}>
-                                        รายละเอียดเพิ่มเติม52551816
+                                        รายละเอียดเพิ่มเติม
                                     </Button>
                                 </CardActions>
                             </Card>
